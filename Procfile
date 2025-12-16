@@ -1,0 +1,1 @@
+worker: python runspark_bot.py
